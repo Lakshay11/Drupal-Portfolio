@@ -15,4 +15,16 @@
   	margin-top: 5px;
   	margin-bottom: 5px;
   }
+  #gallery .adjustimg{
+  	width: 100%;
+  }
+  .alitwihead{
+  	width: 100%;
+  }
+  .twiro{
+  	width: 90%;
+  }
+  .allir{
+  	display: none;
+  }
 }

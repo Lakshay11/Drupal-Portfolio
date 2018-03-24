@@ -47,7 +47,8 @@
       font-family: "Segoe UI" , Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
       text-decoration: none;
       font-size: 14px;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      border: 2px solid transparent; }
     #wrapper #topsec a:before, #wrapper #topsec a:after {
       display: block;
       width: 100%;
